@@ -8,7 +8,7 @@
 
 **Short-bio**: Iam Lakshma Reddy Bandi, I am an experienced data engineer, intrested in solving problems in any kind of pressuristic circumstances. Willing to work in an environment that motivates me to become successful in carrer.    
 
-![LakshmaReddy Bandi](project/images/Screenshot (2) - Copy.png)
+![LakshmaReddy Bandi](project/images/headshot.png)
 
 ## Repository Information
 
