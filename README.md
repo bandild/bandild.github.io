@@ -38,7 +38,9 @@ The link to access my website is: [https://bandild.github.io/project/index.html]
 
 I created a separate syllabus.html page on my repository, introducing the "Web Application Programming and Hacking" course  . In this html file contains overview of the course. 
 
-The link to access waph.html is: [https://sheelada.github.io/waph.html](https://sheelada.github.io/waph.html).
+The link to access waph.html is: [bandild.github.io/project
+/syllabus.html](bandild.github.io/project
+/syllabus.html).
 
 This page link is accessible from the personal website as shown in below screenshot:
 
