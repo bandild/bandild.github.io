@@ -44,7 +44,7 @@ This page link is accessible from the personal website as shown in below screens
 
 ![course](project/images/course.png)
 
-![coursedetails](project/images/coursedetails.png)
+![coursedetails](project/images/couredetails.png)
 
 \pagebreak
 
