@@ -8,7 +8,7 @@
 
 **Short-bio**: Iam Lakshma Reddy Bandi, I am an experienced data engineer, intrested in solving problems in any kind of pressuristic circumstances. Willing to work in an environment that motivates me to become successful in carrer.    
 
-![LakshmaReddy Bandi](images/screenshot.png)
+![LakshmaReddy Bandi](project/images/screenshot.png)
 
 ## Repository Information
 
@@ -30,7 +30,7 @@ The link to access Individual Project-1 is: [https://github.com/bandild/bandild.
 
 The link to access my website is: [https://bandild.github.io/project/index.html](https://bandild.github.io/project/index.html)
 
-![Portfolio Website](images/mainpage.png)
+![Portfolio Website](project/images/mainpage.png)
 
 \pagebreak
 
@@ -42,9 +42,9 @@ The link to access waph.html is: [https://sheelada.github.io/waph.html](https://
 
 This page link is accessible from the personal website as shown in below screenshot:
 
-![course](images/course.png)
+![course](project/images/course.png)
 
-![coursedetails](images/coursedetails.png)
+![coursedetails](project/images/coursedetails.png)
 
 \pagebreak
 
@@ -65,7 +65,7 @@ page tracker code:
       </div>
 ```
 
-![pagetracker](images/pagetracker.png)
+![pagetracker](project/images/pagetracker.png)
 
 \pagebreak
 
@@ -142,7 +142,7 @@ Source Code for show/hide your email:
 
 Screenshot Showing Digital clock, Analog Clock, Show/hide your email:
 
-![Email and Analog](images/EA.png)
+![Email and Analog](project/images/EA.png)
 
 \pagebreak
 
@@ -197,7 +197,7 @@ Source code for Haacker news Api:
     ReactDOM.render(<NewsArticles />, document.getElementById('root'));
   </script>
  ```
-![NewArticle](images/Article.png)
+![NewArticle](project/images/Article.png)
 
 \pagebreak
 
@@ -284,7 +284,7 @@ The Weatherbit API has been integrated to retrieve and display current weather
 
 ```
 
-![Joke and weather ](images/jw.png)
+![Joke and weather ](project/images/jw.png)
 
 \pagebreak
 
@@ -336,7 +336,7 @@ JavaScript cookies are used to remember client visits and display personalized m
           displayWelcomeMessage();
   </script>
 ```
-![cookies](images/cookie.png)
+![cookies](project/images/cookie.png)
 
 
 
